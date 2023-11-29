@@ -1,2 +1,2 @@
 # mentoring_py
- My tasks 
+ My tasks for mentoring (Python Backend)
